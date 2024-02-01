@@ -51,3 +51,8 @@ If you have any feedback or issues running the code, please join the [Discord se
 
 ### FOR MOJANG AB EMPLOYEES / GEYSERMC STAFF:
 If the company wishes to discontinue or terminate this project, please do not hesitate to reach out to me on Discord. I can be reached at [Discord/qing762](https://discord.com/users/635765555277725696). Thank you for your attention to this matter.
+
+
+## License
+
+[MIT LICENSE](https://choosealicense.com/licenses/mit/)
